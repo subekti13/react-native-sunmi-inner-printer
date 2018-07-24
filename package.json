@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-sunmi-inner-printer",
+  "_id": "react-native-sunmi-inner-printer@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-qZ8YMozh0EljvG9taDmMnXLsniM=",
+  "_location": "/react-native-sunmi-inner-printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-sunmi-inner-printer",
+    "name": "react-native-sunmi-inner-printer",
+    "escapedName": "react-native-sunmi-inner-printer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-sunmi-inner-printer/-/react-native-sunmi-inner-printer-0.1.5.tgz",
+  "_shasum": "a99f18328ce1d04963bc6f6d68398c9d72ec9e23",
+  "_spec": "react-native-sunmi-inner-printer",
+  "_where": "/Users/apple/PIRI/piri-pos-react",
+  "author": {
+    "name": "Janus J K Lu",
+    "email": "januslo6211@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/januslo/react-native-sunmi-inner-printer/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "deprecated": false,
+  "description": "http://docs.sunmi.com/htmls/index.html?lang=zh##V1文档资源 根据商米V1文档开发的蓝牙打印for React Native.",
+  "homepage": "https://github.com/januslo/react-native-sunmi-inner-printer#readme",
+  "keywords": [
+    "react-native",
+    "sunmi",
+    "printer",
+    "商米",
+    "打印"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-sunmi-inner-printer",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/januslo/react-native-sunmi-inner-printer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.5"
+}
